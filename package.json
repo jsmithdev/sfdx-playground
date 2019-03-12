@@ -1,0 +1,24 @@
+{
+  "name": "sfdx-playground",
+  "version": "0.0.1",
+  "description": "playground for tweaking cmds for other projects",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sfdx-js": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubyajaysmith/sfdx-playground.git"
+  },
+  "author": "Jamie Smith",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dubyajaysmith/sfdx-playground/issues"
+  },
+  "homepage": "https://github.com/dubyajaysmith/sfdx-playground#readme"
+}
