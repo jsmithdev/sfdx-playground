@@ -4,7 +4,7 @@
   "description": "playground for tweaking cmds for other projects",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "sfdx-js": "^4.5.0"
   },
   "devDependencies": {},
